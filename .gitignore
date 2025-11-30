@@ -4,3 +4,4 @@ build
 application-oauth.properties
 .idea
 out
+build.sh
